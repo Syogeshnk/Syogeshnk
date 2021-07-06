@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-05T09:12:15 IST" name="Default suite" finished-at="2021-07-05T09:12:15 IST" duration-ms="140">
+    <groups>
+    </groups>
+    <test started-at="2021-07-05T09:12:15 IST" name="Default test" finished-at="2021-07-05T09:12:15 IST" duration-ms="140">
+      <class name="yogesh.EndtoEnd1.App">
+        <test-method signature="TDAccount()[pri:0, instance:yogesh.EndtoEnd1.App@1cbbffcd]" started-at="2021-07-05T09:12:15 IST" name="TDAccount" finished-at="2021-07-05T09:12:15 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TDAccount -->
+      </class> <!-- yogesh.EndtoEnd1.App -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

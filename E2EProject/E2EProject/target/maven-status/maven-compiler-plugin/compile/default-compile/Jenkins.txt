@@ -1,0 +1,5 @@
+java -jar jenkins.war --enable-future-java  --httpPort=8080
+Jenkins initial setup is required. An admin user has been created and a password generated.
+Please use the following password to proceed to installation:
+
+63d2ae98c022460c82f66f7f0c5a605d
